@@ -1,0 +1,29 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px 8px 10px #888888;
+    
+  }
+  body{
+    background-color: #92a8d1;
+    
+  }
+  .form-control{
+    border: 2px solid red;
+    padding: 10px;
+   
+   
+  }
+  .form-control:hover {
+    color:pink;
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 8px;
+    height: 20px;
+  }
+  
+  tr:nth-child(even) {background-color: #f2f2f2;}
