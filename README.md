@@ -1,2 +1,1 @@
-# CRUD
-CRUD using react and redux
+to-do-list
